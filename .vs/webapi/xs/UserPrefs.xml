@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5F8903A6-4E65-4024-934D-E4A402FE4B17}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Article.cs">
+    <Files>
+      <File FileName="appsettings.json" />
+      <File FileName="Data/ApplicationDbContext.cs" />
+      <File FileName="webapi.csproj" />
+      <File FileName="Controllers/HomeController.cs" Line="95" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/AuthenticateController.cs" />
+      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Models/LoginModel.cs" Line="1" Column="1" />
+      <File FileName="Models/RegisterModel.cs" Line="1" Column="1" />
+      <File FileName="Models/ResponseModel.cs" Line="1" Column="1" />
+      <File FileName="Models/Article.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapi" expanded="True">
+            <Node name="webapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Article.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
