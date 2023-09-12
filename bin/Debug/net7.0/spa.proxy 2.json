@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "/Users/malena/Desktop/Group1.2ReactTransfer - FINAL backup/Solution3/webapi-backup",
+"MaxTimeoutInSeconds": "120"
+}
+}
